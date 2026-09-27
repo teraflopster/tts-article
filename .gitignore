@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local research evidence and generated artifacts
+data/
+outputs/
+work/aistds_analysis/
+work/render_aistds/
+work/test_*.docx
+work/gitmeta/
+work/mplconfig/
+work/tmp/
+*.wav
+*.safetensors
+*.ckpt
+
+# Office and OS temporary files
+~$*.docx
+.DS_Store
+Thumbs.db
